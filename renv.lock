@@ -37,7 +37,7 @@
       "Package": "bslib",
       "Version": "0.4.2",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "a7fbf03946ad741129dc81098722fca1",
       "Requirements": [
         "base64enc",
@@ -66,7 +66,7 @@
       "Package": "cli",
       "Version": "3.5.0",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "eb9fc121ad9a1075c471107ef185be46",
       "Requirements": []
     },
@@ -74,7 +74,7 @@
       "Package": "digest",
       "Version": "0.6.31",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "8b708f296afd9ae69f450f9640be8990",
       "Requirements": []
     },
@@ -92,7 +92,7 @@
       "Package": "evaluate",
       "Version": "0.19",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "5aac3cd0a3ccb1a738941796b28c26fe",
       "Requirements": []
     },
@@ -124,7 +124,7 @@
       "Package": "highr",
       "Version": "0.10",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "06230136b2d2b9ba5805e1963fa6e890",
       "Requirements": [
         "xfun"
@@ -134,7 +134,7 @@
       "Package": "htmltools",
       "Version": "0.5.4",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "9d27e99cc90bd701c0a7a63e5923f9b7",
       "Requirements": [
         "base64enc",
@@ -158,7 +158,7 @@
       "Package": "jsonlite",
       "Version": "1.8.4",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "a4269a09a9b865579b2635c77e572374",
       "Requirements": []
     },
@@ -243,7 +243,7 @@
       "Package": "rmarkdown",
       "Version": "2.19",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "4e29299e1f4c7eabb0b8365b338adf3c",
       "Requirements": [
         "bslib",
@@ -276,11 +276,11 @@
       "Package": "stringi",
       "Version": "1.7.10",
       "Source": "Repository",
-      "Repository": "https://carpentries.r-universe.dev",
+      "RemoteType": "repository",
       "RemoteUrl": "https://github.com/gagolews/stringi",
       "RemoteRef": "v1.7.10",
       "RemoteSha": "8558da46730dae650e91150da4b5ce0d34e12a76",
-      "Hash": "f28d66a9a196f05c54850f76355d6484",
+      "Hash": "7c4cb0343d36c6d7dfb0d7ef1bd2c5ae",
       "Requirements": []
     },
     "stringr": {
@@ -303,7 +303,7 @@
       "Package": "tinytex",
       "Version": "0.43",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "facc02f3d63ed7dd765513c004c394ce",
       "Requirements": [
         "xfun"
@@ -326,7 +326,7 @@
       "Package": "xfun",
       "Version": "0.36",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "f5baec54606751aa53ac9c0e05848ed6",
       "Requirements": []
     },
